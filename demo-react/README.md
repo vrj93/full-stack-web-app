@@ -10,3 +10,4 @@
 - Axios is used to consume APIs.
 - Function component-based architecture is followed with utilizing hooks.
 - .env is in place for API URL.
+- Tailwind CSS is used for styling
